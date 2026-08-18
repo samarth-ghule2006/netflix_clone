@@ -3,7 +3,7 @@
 A simple Netflix landing page clone built using HTML and CSS.
 
 ## 🚀 Live Demo
-chimerical-shortbread-96a8d7.netlify.app
+[Live Demo](https://chimerical-shortbread-96a8d7.netlify.app/)
 
 ### 🏠 Homepage
 ![Homepage](img1.png)
