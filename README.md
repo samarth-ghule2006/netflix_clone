@@ -3,7 +3,7 @@
 A simple Netflix landing page clone built using HTML and CSS.
 
 ## 🚀 Live Demo
-https://samarth-ghule2006.github.io/netflix-clone/
+chimerical-shortbread-96a8d7.netlify.app
 
 ### 🏠 Homepage
 ![Homepage](img1.png)
@@ -29,7 +29,7 @@ https://samarth-ghule2006.github.io/netflix-clone/
 
 ## 📁 Folder Structure
 
-Projects/netflix-clone/
+Projects/netflix_clone/
 │── index.html
 │── style.css
 │── assets/
@@ -39,7 +39,7 @@ Projects/netflix-clone/
 - Flexbox & layout design
 - Positioning elements
 - Responsive design basics
-- Deploying using GitHub Pages
+- Deploying using Netlify
 
 ## 👨‍💻 Author
 Samarth Ghule
